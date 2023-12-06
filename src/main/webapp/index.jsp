@@ -112,7 +112,7 @@
         <li><a href="#about">About</a></li>
       </ul>
       <br><br>
-      <p>"Do something important in life. I convert green grass to code."<br>- Mr Shreyas shetty</p>
+      <p>"Do something important in life. I convert green grass to code."<br>- Mr Navaneeth</p>
     </aside>
     <main class="content">
       <h2>About Me</h2>
